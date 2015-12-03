@@ -1,0 +1,16 @@
+\INEchaptercarta[Graduados de educación superior]{Graduados \\de educación superior}{}
+
+\cajita{Graduados}{desc}{Graduados de educación superior}{República de Guatemala, serie histórica, datos absolutos}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/graduados/1_01.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{Mujeres graduadas}{desc}{Mujeres graduadas de educación superior}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/graduados/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{Grado obtenido}{desc}{Graduados de educación superior según el grado obtenido}{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/graduados/1_03.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{Grado obtenido según sexo}{desc}{Distribución de los graduados por sexo, según el grado obtenido}{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/graduados/1_04.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Graduados según campo de estudio}{desc}{Graduados de educación superior según el campo de estudio}{República de Guatemala, 2013, en datos absolutos}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/graduados/1_05.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Graduados según campo de estudio y tipo de universidad}{desc}{Distribución porcentual de los graduados  de educación superior según el campo de estudio, por tipo de universidad}{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/graduados/1_06.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+

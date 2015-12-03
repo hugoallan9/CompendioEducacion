@@ -1,0 +1,52 @@
+\INEchaptercarta[Matriculados en educación superior]{Matriculados \\en educación superior}{}
+
+
+\cajita{Matriculados}{desc}{Matriculados en universidades}{República de Guatemala, serie histórica, en datos absolutos}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_01.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Crecimiento matriculados}{desc}{Tasa de crecimiento de estudiantes matriculados en universidades}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Matriculados en sector privado}{desc}{Estudiantes matriculados en universidades privadas}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_16.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{Tipo de ingreso}{desc}{Distribución de estudiantes inscritos según el tipo de matrícula}{República de Guatemala, 2013, datos absolutos}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_03.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+	
+
+\cajita{Mujeres matriculadas}{desc}{Estudiantes mujeres matriculadas en universidades}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_04.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Crecimiento matriculados por sexo}{desc}{Tasa de crecimiento de estudiantes matriculados en universidades, por sexo}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_05.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Edad de los matriculados}{desc}{Estudiantes matriculados en universidades, por grupo de edad}{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_06.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Edad y sexo de los matriculados}{desc}{Estudiantes matriculados en universidades \\por grupo de edad y sexo}{República de Guatemala, 2013, en datos absolutos}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_07.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Matriculados nuevos por sexo}{desc}{Estudiantes nuevos matriculados en universidades por sexo}{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_08.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Edad de los matriculados nuevos}{desc}{Estudiantes nuevos matriculados en universidades\\ por grupo de edad}{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_09.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+
+
+\cajita{Grado académico}{desc}{Distribución de los estudiantes matriculados en universidades por grado académico}{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_10.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Grado académico en la universidad pública}{desc}{Estudiantes matriculados en la universidad estatal, por grado académico}{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_11.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{Mujeres según grado académico}{desc}{Estudiantes mujeres matriculadas en  universidades, por grado académico}{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_12.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Campo de estudio}{desc}{Distribución de estudiantes matriculados en universidades por campo de estudio}{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_13.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Campo de estudio en la universidad pública}{desc}{Estudiantes matriculados en la universidad estatal, por campo de estudio}{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_14.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{Mujeres según campo de estudio}{desc}{Estudiantes mujeres matriculadas en  universidades, por campo de estudio}{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_15.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+
+%\cajita{--}{desc}{--}{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}

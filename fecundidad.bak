@@ -1,0 +1,61 @@
+\INEchaptercarta[Fecundidad y planificación familiar]{Fecundidad y\\ planificación familiar}{}
+
+
+
+\cajita{TGF}{desc}{Tasa global de fecundidad }{República de Guatemala, serie histórica por ENSMI, niños por mujer}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_01.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{TGF según escolaridad}{desc}{Tasa global de fecundidad por nivel de educación}{República de Guatemala, 2008-09, niños por mujer}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{TGF mujeres sin educación}{desc}{Tasa global de fecundidad de las mujeres sin ningún nivel educativo alcanzado}{República de Guatemala, serie histórica por ENSMI, niños por mujer}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_03.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+%
+\cajita{Primera relación sexual}{desc}{Edad mediana de la primera relación sexual de las mujeres}{República de Guatemala, serie histórica por ENSMI, años}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_04.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Primera relación sexual según escolaridad}{desc}{Edad mediana de la primera relación sexual de las mujeres, por nivel de educación}{República de Guatemala, 2008-09, años}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_05.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+%
+%\cajita{Primera relación sexual de mujeres sin educación}{desc}{Edad mediana de la primera relación sexual de las mujeres sin ningún nivel educativo alcanzado}{República de Guatemala, serie histórica por ENSMI, años}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_06.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+%
+%\cajita{Primer nacimiento}{desc}{Edad mediana del primer nacimiento en mujeres entre 20 y 49 años}{República de Guatemala, serie histórica por ENSMI, años}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_07.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%\cajita{Primer nacimiento según escolaridad}{desc}{Edad mediana del primer nacimiento en mujeres entre 20 y 49 años, por nivel de educación}{República de Guatemala, 2008-09, años}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_08.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%\cajita{Primer nacimiento, mujeres sin educación}{desc}{Edad mediana del primer nacimiento en mujeres sin educación, entre 20 y 49 años}{República de Guatemala, serie histórica por ENSMI, años}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_09.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+%
+
+
+\cajita{Cantidad de hijos deseados y observados}{desc}{Fecundidad deseada y observada}{República de Guatemala, serie histórica por ENSMI, niños por mujer}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_07.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Cantidad de hijos deseados y observados según escolaridad}{desc}{Fecundidad deseada y observada por nivel de educación}{República de Guatemala, 2008-09, niños por mujer}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_08.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Cantidad de hijos deseados y observados en mujeres sin educación}{desc}{Fecundidad deseada y observada en mujeres sin ningún nivel educativo alcanzado}{República de Guatemala, serie histórica por ENSMI, niños por mujer}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_09.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+%
+
+\cajita{Conocimiento de métodos anticonceptivos}{desc}{Mujeres en unión que conocen algún método de planificación familiar}{República de Guatemala, serie histórica por ENSMI, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_10.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Conocimiento de métodos anticonceptivos según escolaridad}{desc}{Mujeres en unión que conocen algún método de planificación familiar, por nivel de educación}{República de Guatemala, 2008-09, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_11.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Conocimiento de métodos anticonceptivos mujeres sin educación}{desc}{Mujeres sin educación en unión, que conocen algún método de planificación familiar}{República de Guatemala, serie histórica por ENSMI, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_12.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+
+\cajita{Uso de métodos anticonceptivos}{desc}{Mujeres en unión que usan algún método de planificación familiar}{República de Guatemala, serie histórica por ENSMI, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_13.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Uso de métodos anticonceptivos según escolaridad}{desc}{Mujeres en unión que usan algún método de planificación familiar, por nivel de educación}{República de Guatemala, 2008-09, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_14.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Uso de métodos anticonceptivos mujeres sin educación}{desc}{Mujeres sin educación en unión, que usan algún método de planificación familiar}{República de Guatemala, serie histórica por ENSMI, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_15.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}

@@ -1,0 +1,30 @@
+\INEchaptercarta{Nacimientos, características escolares de las madres}{}
+
+\cajita{Nacimientos}{desc}{Nacimientos registrados}{República de Guatemala, serie histórica, en datos absolutos}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/vitales/1_00.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{Escolaridad de la madre}{desc}{Nacimientos según escolaridad de la madre }{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/vitales/1_01.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{Madres sin escolaridad}{desc}{Nacimientos en madres sin escolaridad}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/vitales/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajota{Madres sin escolaridad en los departamentos}{desc}{Nacimientos en madres sin escolaridad }{Departamental, 2013, en porcentaje}{\includegraphics[width=52\cuadri]{C:/Users/INE/Desktop/compendio_educacion/graficas/vitales/1_3.pdf}}{Instituto Nacional de Estadística}
+
+\cajita{Promedio de hijos}{desc}{Promedio de hijos por madre que alumbró en el 2013, según su escolaridad}{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/vitales/1_04.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{Promedio de hijos de madres sin escolaridad}{desc}{Promedio de hijos por madre que alumbró en el 2013 sin ningún nivel de escolaridad aprobado}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/vitales/1_05.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajota{Promedio de hijos de madres sin escolaridad en los departamentos}{desc}{Promedio de hijos por madre que alumbró en el 2013 sin ningún nivel de escolaridad aprobado}{Departamental, 2013, en porcentaje}{\includegraphics[width=52\cuadri]{C:/Users/INE/Desktop/compendio_educacion/graficas/vitales/1_6.pdf}}{Instituto Nacional de Estadística}
+
+\cajita{Madres que recibieron atención médica}{desc}{Nacimientos en madres que recibieron atención médica según nivel de escolaridad}{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/vitales/1_07.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{Madres sin escolaridad que recibieron atención médica}{desc}{Nacimientos en madres que recibieron atención médica sin ningún nivel de escolaridad aprobado}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/vitales/1_08.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajota{Madres sin escolaridad que recibieron atención médica en los departamentos}{desc}{Nacimientos en madres que recibieron atención médica sin ningún nivel de escolaridad aprobado}{Departamental,2013, en porcentaje}{\includegraphics[width=52\cuadri]{C:/Users/INE/Desktop/compendio_educacion/graficas/vitales/1_9.pdf}}{Instituto Nacional de Estadística}
+
+
+\cajita{Nacimientos ocurridos en centro médico, según escolaridad la madre}{\footnote{Incluye los nacimientos ocurridos en: hospital privado, hospital público, centro de salud e IGSS}desc}{Nacimientos ocurridos en centro de atención médica, según el nivel de escolaridad de la madre}{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/vitales/1_10.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{Nacimientos ocurridos en centro médico, madres sin escolaridad }{desc}{Nacimientos en madres sin escolaridad, ocurridos en centros de atención médica}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/vitales/1_11.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajota{Madres sin escolaridad que recibieron atención médica en los departamentos}{desc}{Nacimientos en madres que recibieron atención médica sin ningún nivel de escolaridad aprobado}{Departamental,2013, en porcentaje}{\includegraphics[width=52\cuadri]{C:/Users/INE/Desktop/compendio_educacion/graficas/vitales/1_12.pdf}}{Instituto Nacional de Estadística}

@@ -1,0 +1,15 @@
+
+\INEchaptercarta{Alfabetismo de la población en edad de trabajar}{}
+
+
+\cajita{Alfabetismo}{desc}{Tasa de alfabetismo en personas mayores de 14 años}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/alfabetismo/1_01.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{Alfabetismo según sexo}{desc}{Tasa de alfabetismo en personas mayores de 14 años por sexo}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/alfabetismo/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{Alfabetismo por edad}{desc}{Tasa de alfabetismo en personas mayores de 14 años por grupo etario}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/alfabetismo/1_03.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+\cajita{Alfabetismo por etnia}{desc}{Tasa de alfabetismo en personas mayores\\ de 14 años por grupo étnico}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/alfabetismo/1_04.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+\cajita{Alfabetismo según etnia y sexo}{desc}{Tasa de alfabetismo según etnia, en personas\\ mayores de 14 años por  sexo}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/alfabetismo/1_05.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+\cajita{Alfabetismo por área de residencia}{desc}{Tasa de alfabetismo en personas mayores de 14 años por área}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/alfabetismo/1_06.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+\cajita{Alfabetismo por área y sexo}{desc}{Tasa de alfabetismo por área, \\en personas mayores de 14 años por sexo}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/alfabetismo/1_07.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+

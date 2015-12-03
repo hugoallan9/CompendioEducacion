@@ -1,0 +1,109 @@
+\input{presentacion.tex}
+
+\begin{document}
+
+\primeradiapositiva{Estadísticas en educación}{Compendio estadístico 2013}{Instituto Nacional de Estadística}{Septiembre 2015}
+
+\INEchaptercarta{Composición del documento}{$\ $\\[0.5cm]\textbf{Número de partes: } 5\\[0.5cm]
+	\textbf{Número de capítulos}: 19\\[0.5cm]
+	\textbf{Número de secciones:} $\sim $ 160}
+\INEchaptercarta{Partes del documento}{
+	
+\begin{itemize}\correct \itemsep 10pt
+	\item 	Estadísticas de los niveles educativos a cargo\newline del Ministerio de Educación
+	\item {Estadísticas de educación superior}{}
+	\item {Educación y empleo}{}
+	\item {Educación y fecundidad}{}
+	\item 	{Gasto público en educación}{}
+\end{itemize}
+	}
+
+
+\INEchaptercarta{Alumnos en preprimaria}{}
+\cajita{Inscritos }{desc}{Número de inscritos en el ciclo de educación preprimaria}{República de Guatemala, serie histórica, en datos absolutos}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt,scale=.8]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/preprimaria/1_01.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{Cobertura bruta}{desc}{Tasa bruta de cobertura del ciclo de educación preprimaria}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt,scale=.8]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/preprimaria/1_07.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\INEchaptercarta{Alumnos en primaria}{}
+
+
+
+\cajita{Inscritos }{desc}{Número de inscritos en el ciclo de educación primaria}{República de Guatemala, serie histórica, en datos absolutos}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt,scale=.8]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/primaria/1_01.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Cobertura neta}{desc}{Tasa neta de cobertura del ciclo de educación primaria}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/primaria/1_11.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\INEchaptercarta{Alumnos en básicos}{}
+
+
+
+\cajita{Inscritos }{desc}{Número de inscritos en el ciclo de educación básica}{República de Guatemala, serie histórica, en datos absolutos}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt,scale=.8]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/basicos/1_01.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{Cobertura neta}{desc}{Tasa neta de cobertura del ciclo de educación básica}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/basicos/1_11.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\INEchaptercarta{Alumnos en diversificado}{}
+
+
+
+\cajita{Inscritos }{desc}{Número de inscritos en el ciclo de educación diversificada}{República de Guatemala, serie histórica, en datos absolutos}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt,scale=.8]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/diversificado/1_01.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Cobertura neta}{desc}{Tasa neta de cobertura del ciclo de educación diversificada}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/diversificado/1_11.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\INEchaptercarta{Matriculados en educación superior}{}
+
+
+\cajita{Matriculados}{desc}{Matriculados en universidades}{República de Guatemala, serie histórica, en datos absolutos}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt,scale=.8]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_01.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Matriculados en sector privado}{desc}{Estudiantes matriculados en universidades privadas}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt,scale=.8]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_16.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Tipo de ingreso}{desc}{Distribución de estudiantes inscritos según el tipo de matrícula}{República de Guatemala, 2013, datos absolutos}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt,scale=.8]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_03.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Mujeres matriculadas}{desc}{Estudiantes mujeres matriculadas en universidades}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt,scale=.8]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_04.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Grado académico}{desc}{Estudiantes matriculados en universidades por grado académico}{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt,scale=.8]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/matriculau/1_10.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\INEchaptercarta{Graduados de educación superior}{}
+
+\cajita{Graduados}{desc}{Graduados de educación superior}{República de Guatemala, serie histórica, datos absolutos}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt,scale=.8]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/graduados/1_01.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{Mujeres graduadas}{desc}{Mujeres graduadas de educación superior}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt,scale=.8]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/graduados/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{Grado obtenido}{desc}{Graduados de educación superior según el grado obtenido}{República de Guatemala, 2013, datos absolutos}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt,scale=.8]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/graduados/1_03.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{Grado obtenido según sexo}{desc}{Distribución de los graduados por sexo, según el grado obtenido}{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt,scale=.8]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/graduados/1_04.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Graduados según campo de estudio}{desc}{Graduados de educación superior según el campo de estudio}{República de Guatemala, 2013, en datos absolutos}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt,scale=.8]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/graduados/1_05.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Graduados según campo de estudio y tipo de universidad}{desc}{Distribución pocentual de los graduados  de educación superior según el campo de estudio, por tipo de universidad}{República de Guatemala, 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt,scale=.8]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/graduados/1_06.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\INEchaptercarta{Indicadores}{}
+
+
+
+\cajita{TGF según escolaridad}{desc}{Tasa global de fecundidad por nivel de educación}{República de Guatemala, 2008-09, niños por mujer}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt,scale=.8]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{TGF mujeres sin educación}{desc}{Tasa global de fecundidad de las mujeres sin ningún nivel educativo alcanzado}{República de Guatemala, serie histórica, niños por mujer}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt,scale=.8]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_03.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+
+\cajita{Cantidad de hijos deseados y observados}{desc}{Fecundidad deseada y observada}{República de Guatemala, serie histórica, niños por mujer}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_07.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{Cantidad de hijos deseados y observados según escolaridad}{desc}{Fecundidad deseada y observada por nivel de educación}{República de Guatemala, 2008-09, niños por mujer}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/ensmi/1_08.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+
+\muchasgracias
+
+\end{document}

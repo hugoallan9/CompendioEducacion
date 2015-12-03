@@ -1,0 +1,20 @@
+\INEchaptercarta{Gasto de los hogares}{}
+
+\cajita{Gasto en educación}{desc}{Gasto promedio anual per cápita en educación}{República de Guatemala, serie histórica por Encovi, en quetzales de cada año}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/gastohogares/1_01.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística, Encovi 2000, 2006 y 2011}
+
+\cajita{Proporción de gasto en educación}{desc}{Gasto en educación como proporción del gasto total }{República de Guatemala, serie histórica por Encovi, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/gastohogares/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística, Encovi 2000, 2006 y 2011}
+
+
+%aquí va la nueva 32.3
+
+
+\cajita{Gasto en educación según jefatura del hogar}{desc}{Proporción del gasto promedio per cápita en educación según sexo de la jefatura del hogar}{República de Guatemala, serie histórica por Encovi, en quetzales de 2011}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/gastohogares/1_07.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística, Encovi 2000, 2006 y 2011}
+
+
+\cajita{Gasto en educación según etnicidad}{desc}{Gasto promedio per cápita anual en educación según etnicidad del jefe del hogar}{República de Guatemala, 2011, en quetzales de 2011}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/gastohogares/1_03.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística, Encovi 2011.}
+
+\cajita{Gasto en educación según  nivel de pobreza}{desc}{Gasto promedio per cápita anual en educación por nivel de pobreza}{República de Guatemala, 2011, en quetzales 2011}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/gastohogares/1_04.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística, Encovi 2011.}
+
+\cajita{Gasto en educación por área de residencia}{desc}{Gasto promedio per cápita anual en educación por área de residencia}{República de Guatemala, 2011, en quetzales de 2011}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/gastohogares/1_05.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística, Encovi 2011.}
+
+\cajota{Gasto en educación en los departamentos}{desc}{Gasto promedio per cápita anual en educacación }{Departamental, 2011, en quetzales de 2011}{\includegraphics[width=52\cuadri]{C:/Users/INE/Desktop/compendio_educacion/graficas/gastohogares/1_06.pdf}}{Instituto Nacional de Estadística}

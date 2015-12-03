@@ -1,0 +1,125 @@
+
+\INEchaptercarta{Caracterización escolar de la población económicamente activa}{}
+
+
+\cajita{Participación PEA}{desc}{Tasa de participación de la población económicamente activa}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_01.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{PEA que sabe leer y escribir}{desc}{Proporción de la población económicamente activa – PEA -, que sabe leer y escribir por dominios de estudio }{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{PEA según nivel de escolaridad}{desc}{Proporción de la población económicamente activa que sabe leer y escribir, según nivel de escolaridad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_03.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+%\cajita{PEA según condición de ocupación}{desc}{Proporción de la población económicamente activa según condición de ocupación}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{PEA según escolaridad y sexo}{desc}{Proporción de la población económicamente activa por nivel de escolaridad y sexo}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_04.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+\cajita{PEA según escolaridad y etnia}{desc}{Proporción de la población económicamente activa por nivel de escolaridad y grupo étnico}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_05.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+\cajita{PEA que asistió a un plantel educativo}{desc}{Distribución de la población económicamente activa, de acuerdo a su asistencia a un plantel educativo}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_06.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+
+
+%\INEchaptercarta{Caracterización escolar de los ocupados y desocupados}{}
+%
+%
+%
+%
+%\cajita{Ocupados con educación primaria}{Una propuesta...}{Proporción de población ocupada que tiene hasta sexto grado de primaria}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%\cajita{Ocupados con educación primaria y la rama de actividad}{desc}{Proporción de población ocupada que tiene hasta sexto grado de primaria por rama de actividad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%
+%\cajita{Ocupados con educación primaria y la ocupación}{desc}{Proporción de población ocupada que tiene hasta sexto grado de primaria por categoría ocupacional}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%\cajita{Ocupados, IGSS y escolaridad}{desc}{Proporción de la población ocupada que es afiliado activo del IGSS, según nivel de escolaridad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%\cajita{Ocupados, sector informal y escolaridad}{desc}{Proporción de la población ocupada que labora en el sector informal según nivel de escolaridad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%
+%\cajita{Asalariados, contratos y escolaridad}{desc}{Proporción de la población asalariada que  tiene contrato de trabajo, por nivel de escolaridad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%
+%\cajita{Asalariados, bono 14 y escolaridad}{desc}{Proporción de la población asalariada que recibe bono 14 según el nivel de escolaridad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%
+%
+%\cajita{Asalariados, aguinaldo y escolaridad}{desc}{Proporción de la población asalariada que recibe aguinaldo según el nivel de escolaridad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%
+%
+%
+%\cajita{Escolaridad e ingresos}{desc}{Promedio de ingresos laborales según el nivel de escolaridad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%
+%\cajita{Escolaridad e ingresos, según sexo}{desc}{Promedio de ingresos laborales según el nivel de escolaridad y sexo}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%
+%\cajita{Desempleo}{desc}{Tasa de desempleo abierto}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%
+%\cajita{Desempleo según sexo}{desc}{Tasa de desempleo abierto según sexo}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%\cajita{Desocupados analfabetos según dominio}{desc}{Proporción de la población desocupada que es analfabeta, por dominio de estudio}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%\cajita{Desocupados y escolaridad}{desc}{Proporción de la población desocupada, según nivel de escolaridad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%\cajita{Descoupados, escolaridad y sexo}{desc}{Proporción de la población desocupada, según nivel de escolaridad y sexo}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+
+%\INEchaptercarta{Capacitación en el trabajo}{}
+%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%
+%
+%
+%
+%\INEchaptercarta{Niñez que labora y su escolaridad}{}
+%
+%
+%
+%\cajita{Tasa de trabajo infantil}{desc}{Tasa de la población menor a 14 años que realiza actividades económicas}{República de Guatemala, serie histórica, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%
+%\cajita{Tasa de trabajo infantil por sexo}{desc}{Tasa de la población menor a 14 años que realiza actividades económicas según sexo}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%\cajita{Trabajo infantil y anpea por dominio de estudio}{desc}{Proporción de la población menor a 14 años que realiza actividades económicas, por dominio de estudio}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%\cajita{Trabajo infantil y escolaridad}{desc}{Proporción de la población menor a 14 años que realiza actividades económicas, por nivel de escolaridad}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%\cajita{Trabajo infantil, escolaridad y sexo}{desc}{Proporción de la población menor a 14 años que realiza actividades económicas, por nivel de escolaridad y sexo}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
+%
+%\cajita{Trabajo infantil y escolaridad del jefe de hogar}{desc}{Distribución de la población menor a 14 años que realiza actividades económicas, por nivel de escolaridad del jefe de hogar}{República de Guatemala, año 2013, en porcentaje}{\ \\[0mm]\begin{tikzpicture}[x=1pt,y=1pt]  \input{C:/Users/INE/Desktop/compendio_educacion/graficas/pea/1_02.tex}  \end{tikzpicture}}{Instituto Nacional de Estadística}
+%
